@@ -1,7 +1,7 @@
 #! /usr/bin/python
 #
 # USB Sync and Remove (usb-sr)
-# An Python based desktop indicator to safely remove USB drives.
+# A Python based desktop indicator to safely remove USB drives.
 #
 # (c) 2016 Antonio Negro
 #
